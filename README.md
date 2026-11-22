@@ -31,3 +31,9 @@ Exercícios e projetos sobre **JavaScript**, abordando desde os conceitos básic
 ### Node.js - Udemy
 
 Projetos de backend utilizando **Node.js** e o framework **Express**, cobrindo conceitos como **rotas** e desenvolvimento de APIs RESTful de forma prática e escalável.
+
+<br/>
+
+<div align="center">
+<sub>made with love by <a href="https://romugaboo.github.io">romugaboo</a> from brazil ✧ silly online ♡</sub>
+</div>
