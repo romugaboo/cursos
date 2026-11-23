@@ -32,6 +32,10 @@ Exercícios e projetos sobre **JavaScript**, abordando desde os conceitos básic
 
 Projetos de backend utilizando **Node.js** e o framework **Express**, cobrindo conceitos como **rotas** e desenvolvimento de APIs RESTful de forma prática e escalável.
 
+### Rocket Lab - VAI Academy
+
+Notebooks do bootcamp de dados da VAI Academy: **Python**, **pandas** e **numpy**, estatística, aquisição e preparação de dados, análise exploratória e uma introdução a **machine learning**.
+
 <br/>
 
 <div align="center">
